@@ -57,8 +57,7 @@ Além dos requisitos levantados acima, iremos olhar para os seguintes critérios
 - Padrão de commits (_conventional commits_)
 
 ## 😎 Seria legal
-- Fazer deploy na vercel ou em outro local de sua preferência e disponibilizar um link de visualização, se necessário utilize esse servidor para a API GraphQL:  https://rocketseat-frontend-challenge.herokuapp.com/
-
+- Fazer deploy na vercel ou em outro local de sua preferência e disponibilizar um link de visualização.
 ---
 
 _O desafio acima foi cuidadosamente construído para propósitos de avaliação apenas. Já possuimos uma funcionalidade similar na nossa plataforma._
