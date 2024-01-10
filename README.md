@@ -1,4 +1,4 @@
-![image](https://gobrax.com.br/wp-content/uploads/2023/06/Ativo-1-1.png)
+![image](https://github.com/gobrax/frontend-challenges/blob/main/images/capa-github.png)
 
 
 # 🚀 Front-end challenge
@@ -16,7 +16,7 @@ Bom desafio!
 
 # 🧠 Contexto
 
-![Protótipo](https://gobrax.com.br/wp-content/uploads/2023/06/Ativo-1-1.png)
+![Protótipo](https://github.com/gobrax/frontend-challenges/blob/main/images/cadastro.png)
 
 O desafio será implementar um CRUD simples de motoristas e veículos, depois vincular um motorista a um veículo:
 - [ ] Cadastro de motoristas
