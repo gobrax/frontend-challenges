@@ -9,10 +9,11 @@ O objetivo deste desafio é avaliar suas habilidades de programação, independe
 Quando sua solução estiver pronta, basta enviar um e-mail para *gustavo.granato@gobrax.com*.
 Em seguida, enviaremos o feedback e as instruções dos próximos passos!
 
-Caso tenha alguma dúvida, nós estamos disponíveis no email *gustavo.granato@gobrax.com*
+Caso tenha alguma dúvida, nós estamos disponíveis no e-mail *gustavo.granato@gobrax.com*.
+
 Bom desafio!
 
-> ⚠️ **É importante que o seu repo esteja público, caso contrário não iremos conseguir avaliar sua resposta**
+> ⚠️ **É importante que o seu repo esteja público, caso contrário não iremos conseguir avaliar sua resposta.**
 
 # 🧠 Contexto
 
@@ -42,7 +43,7 @@ Chegou a hora de colocar a mão na massa!
 - Sinta-se livre para incluir quaisquer observações
 - Consuma os endpoints descritos na masta api
  
-## ✔️ Critérios de Avaliação
+## ✔️ Critérios de avaliação
 
 Além dos requisitos levantados acima, iremos olhar para os seguintes critérios durante a correção do desafio:
 
