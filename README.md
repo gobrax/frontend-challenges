@@ -17,8 +17,8 @@ Bom desafio!
 
 # 🧠 Contexto
 
-![Protótipo](https://github.com/gobrax/frontend-challenges/blob/main/images/cadastro.png)
-
+![Protótipo](https://github.com/gobrax/frontend-challenges/blob/main/images/baixa.png)
+   
 O desafio será implementar um CRUD simples de motoristas e veículos, depois vincular um motorista a um veículo:
 - [ ] Cadastro de motoristas
 - [ ] Listagem de motoristas
@@ -35,13 +35,13 @@ O desafio será implementar um CRUD simples de motoristas e veículos, depois vi
 
 Chegou a hora de colocar a mão na massa!
 
-- Siga [esse protótipo](https://gobrax.com.br)
+- Inspire-se por [esse protótipo](https://www.figma.com/file/yhXyRd4MqrFBY6LZjyb09x/frontend-challenge?type=design&node-id=0-1&mode=design&t=1kGU562c6iBBmHXc-0)
 - Utilize Reactjs ou Next.js
 - Utilize Material UI
 - Utilizar algum gerenciador de estado (mas pode ser localStorage)
 - Por favor, inclua no README as instruções de instalação do projeto
 - Sinta-se livre para incluir quaisquer observações
-- Consuma os endpoints descritos na masta api
+- Os endpoints podem ser feitos utilizando [JSON server](https://www.npmjs.com/package/json-server)
  
 ## ✔️ Critérios de avaliação
 
